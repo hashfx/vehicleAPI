@@ -1,0 +1,26 @@
+{
+  "name": "vehicleapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hashfx/vehicleAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hashfx/vehicleAPI/issues"
+  },
+  "homepage": "https://github.com/hashfx/vehicleAPI#readme",
+  "description": "",
+  "dependencies": {
+    "@faker-js/faker": "^9.7.0",
+    "dotenv": "^16.5.0",
+    "mongodb": "^6.16.0",
+    "vercel": "^41.7.0"
+  }
+}
